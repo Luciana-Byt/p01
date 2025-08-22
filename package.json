@@ -1,0 +1,14 @@
+{
+  "name": "axolot_32run_33_33",
+  "displayName": "AXOLOT RUN!!",
+  "version": "1.0.1",
+  "description": "AXOLOT RUN!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": ""
+}
